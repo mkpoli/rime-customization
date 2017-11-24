@@ -2,6 +2,7 @@
 # encoding: utf-8
 #
 # 「Rime词库扩展计划」——为小狼毫打造一个强大好用的词库（OpenCC重制版） by @imy0823
+# 本词库 by @mkpoli
 #
 #
 # 部署位置：
@@ -14,7 +15,7 @@
 
 ---
 name: luna_pinyin.csgo
-version: "2017.11.23"
+version: "2017.11.24"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -76,9 +77,10 @@ use_preset_vocabulary: true
 
 
 # 地图
+地图
 ## 地图名称
 炙热沙城
-炙热沙城 II
+# TODO: 炙热沙城 II
 列车停放站
 炼狱小镇
 核子危机
@@ -153,6 +155,52 @@ use_preset_vocabulary: true
 运输货船
 ## 地图俗称
 
+## 地图点位
+### 通用
+包点
+连接
+大坑
+厕所
+二楼
+警家
+匪家
+中路
+侧路
+侧道
+斜坡
+跳台
+管道
+楼上
+楼下
+厨房
+# TODO: VIP
+### Cache
+管道房
+管房
+### Cbble
+长廊
+
+### Dust2
+# TODO: A小
+# TODO: A大
+小道
+大道
+### Inferno
+后花园
+教堂
+书房
+
+
+超市
+
+公寓
+墓地
+大坑
+
+
+
+
+
 # 武器
 ## 投掷物
 閃光彈
@@ -162,14 +210,30 @@ use_preset_vocabulary: true
 国服
 警察
 匪徒
+报点
+
+
+# 战略操作
+保枪
+偷人
+冲
 
 
 # 战术动作
+浪
 搜點
 查点
 背身
 爆弹
 打闪
+打脚
+双架
+架枪
+架点
+身位
+拉身位
+大身位
+小身位
 ## 射击
 射击
 压枪
@@ -178,3 +242,22 @@ use_preset_vocabulary: true
 连点
 短连
 短连射
+
+## 游戏模式
+死亡竞赛
+死斗
+练枪
+对枪
+军备竞赛
+练习
+
+# 比分
+翻盘
+大比分
+小比分
+稳赢
+稳输
+平局
+
+# 其他
+练枪
